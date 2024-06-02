@@ -1,2 +1,2 @@
 # yage
-<button>Javascript</button>
+[!javascript]
